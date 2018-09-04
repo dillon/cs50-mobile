@@ -20,7 +20,7 @@ Click on a title to show additional information from the IMDB databse.
 
 
 
-# Movie and TV Database
+# Pomodoro Timer
 | React Native|
 |--|
 
