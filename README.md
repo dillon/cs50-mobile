@@ -4,8 +4,8 @@ This repository contains all of my projects/programs/apps made for Harvard's CS5
 | Javascript | JSX | jQuery | HTML | CSS |
 |------------|-----|--------|------|-----|
 
-| React Native | Javascript & jQuery | 
-|--------------| --------------------------- |
+| React Native |
+|--------------|
 
 
 # Movie and TV Database
