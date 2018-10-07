@@ -27,3 +27,11 @@ Click on a title to show additional information from the IMDB databse.
 A [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) app with pause/reset functionality. When the timer is up, the phone vibrates.
 
 ![app gif](https://github.com/dillon/cs50-mobile-projects/blob/master/project1/timer.gif?raw=true)
+
+# Todo List
+| Javascript|
+|--|
+
+A simple browser app to track todo's.
+
+![app gif](https://github.com/dillon/cs50-mobile-projects/blob/master/project0/todo.gif?raw=true)
