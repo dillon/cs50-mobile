@@ -1,5 +1,5 @@
 # My [CS50-Mobile](https://cs50.github.io/mobile/) Projects
-This repository contains all of my projects/programs/apps made for Harvard's CS50. Descriptions and demos for selected projects are below.
+> This repository contains all of my projects/programs/apps made for Harvard's CS50. Descriptions and demos for selected projects are below.
 
 | Javascript | JSX | jQuery | HTML | CSS |
 |------------|-----|--------|------|-----|
