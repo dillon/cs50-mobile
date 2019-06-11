@@ -22,7 +22,8 @@ button {
   cursor: pointer;
 }
 
-button:hover, .todo-list li button:hover {
+button:hover,
+.todo-list li button:hover {
   opacity: 1;
   border-color: #333;
   background-color: #eee;
